@@ -1,1 +1,2 @@
 # auto-createdpydantic==0.1.2
+requests==2.0.6
