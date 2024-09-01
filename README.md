@@ -25,3 +25,4 @@
 - Update note 7561
 - Update note 4586
 - Update note 9499
+- Update note 1527
