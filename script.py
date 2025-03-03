@@ -12,3 +12,4 @@
 # fix 4326
 # fix 3549
 # optimize 1394
+# refactor 7069
